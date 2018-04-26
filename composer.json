@@ -1,6 +1,6 @@
 {
     "require": {
-        "phpspec/phpspec": "^4.0"
+        "phpspec/phpspec": "^4.3"
     },
     "autoload": {
         "psr-4": {
