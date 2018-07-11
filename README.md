@@ -1,3 +1,5 @@
+**This repo is a copy of the original created by David Stockon. Found here: https://bitbucket.org/dstockto/99bottles_php**
+
 This is the PHP version of the 99 bottles of beer exercise using phpspec.
 
 It is not expected for you to complete the class. In fact, after you've 
